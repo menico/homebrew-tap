@@ -6,7 +6,7 @@ Homebrew formulae and casks.
 brew tap menico/tap
 
 brew install cpx           # the cpx command
-brew install --cask cpx    # the cpx menu-bar app
+brew install --cask cpx-app  # the cpx menu-bar app
 ```
 
 Updating:
