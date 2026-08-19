@@ -2,17 +2,17 @@
 class Cpx < Formula
   desc "Run several Claude Code accounts side by side"
   homepage "https://github.com/menico/cpx"
-  version "0.1.4"
+  version "0.1.5"
   license "MIT"
 
   on_macos do
     on_arm do
-      url "https://github.com/menico/cpx/releases/download/v0.1.4/cpx-0.1.4-aarch64-apple-darwin.tar.gz"
-      sha256 "1eb9824eb7be0287940709de88a62375af60b425648e15db5459cb1eef038672"
+      url "https://github.com/menico/cpx/releases/download/v0.1.5/cpx-0.1.5-aarch64-apple-darwin.tar.gz"
+      sha256 "7a9ac52aa09732d6982fa88e5ce448923a467b811a4a4f7a86702cccd742d08e"
     end
     on_intel do
-      url "https://github.com/menico/cpx/releases/download/v0.1.4/cpx-0.1.4-x86_64-apple-darwin.tar.gz"
-      sha256 "a17e09b1d39d11534b0a05bcd5a73449033a990c69e3035f097755858d19e51d"
+      url "https://github.com/menico/cpx/releases/download/v0.1.5/cpx-0.1.5-x86_64-apple-darwin.tar.gz"
+      sha256 "95e2fa47b44481fba15de82aef8c8651c0b12e65a1c1485a4906300b48b406a0"
     end
   end
 
